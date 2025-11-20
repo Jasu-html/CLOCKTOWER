@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Clock Tower</title>
+<link rel="stylesheet" href="CSS/style.css">
+</head>
+<body>
+    <video autoplay muted loop id="bg-video">
+        <source src="VIDEO/ANIMATEDClockTowerv2.mp4" type="video/mp4">
+    </video>
+
+    <div class="clock">
+        <div class="hour-hand" id="hourHand"></div>
+        <div class="minute-hand" id="minuteHand"></div>
+        <div class="second-hand" id="secondHand"></div>
+        <div class="center-circle"></div>
+    </div>
+
+    <div class="digital-clock" id="digitalClock"></div>
+
+    <audio id="tick1" src="SFX/clocktick1.WAV"></audio>
+    <audio id="tick2" src="SFX/clocktick2.WAV"></audio>
+
+    <audio id="hourBell" src="SFX/BELLSfx.WAV"></audio>
+
+    <script src="JS/clock.js"></script>
+</body>
+</html>
