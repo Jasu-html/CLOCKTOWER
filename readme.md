@@ -13,6 +13,13 @@ Welcome to the Clocktower project! 🏰 This is a clocktower built using **HTML*
 
 ---
 
+## 🚀 **Demo**
+
+You can view a live demo of the project here:  
+[**Live Demo**](https://Jasu-html.github.io/CLOCKTOWER/index.html)
+
+---
+
 ## 🛠️ How to Use
 
 To run this project locally:
@@ -57,3 +64,4 @@ Feel free to clone or fork this project for personal use or to learn more about 
 ## 📸 Preview
 Here's a preview of the project:
 ![Clocktower Screenshot](./IMG/screenshot.png)
+
