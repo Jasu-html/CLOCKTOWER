@@ -29,8 +29,8 @@ body {
 
 
 .clock {
-    width: 325px;
-    height: 325px;
+    width: 500px;
+    height: 500px;
     position: relative;
     background: url('/CLOCKTOWER/IMG/clock-facev2.png') no-repeat center;
     background-size: cover;
